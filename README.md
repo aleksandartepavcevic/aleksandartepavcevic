@@ -4,6 +4,8 @@
 
 A self-taught Frontend Developer specializing in JavaScript technologies. Professional experience with the technologies listed in the <strong>toolbox</strong> below.
 
+Check my personal website <a href="https://aleksandartepavcevic.github.io/"><strong>here</strong></a>
+
 ---
 
 🧰 Toolbox
@@ -12,7 +14,7 @@ A self-taught Frontend Developer specializing in JavaScript technologies. Profes
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandartepavcevic&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandartepavcevic&hide=html,css&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aleksandartepavcevic/aleksandartepavcevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
