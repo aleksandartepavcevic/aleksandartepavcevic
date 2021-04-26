@@ -4,7 +4,11 @@
 
 A self-taught Frontend Developer specializing in JavaScript technologies. Professional experience with the technologies listed in the <strong>toolbox</strong> below.
 
-Check my personal website <a href="https://aleksandartepavcevic.github.io/"><strong>here</strong></a>
+
+
+- 🔭 I’m currently working on <strong>Amazon clone!</strong> ( <a href='https://clone-9e184.web.app/'>Check it live</a> | <a href='https://github.com/aleksandartepavcevic/amazon-clone'>Source code</a> )
+- 🌱 I’m currently learning <strong>Redux.</strong>
+- 📫 How to reach me: Check out my personal website <a href="https://aleksandartepavcevic.github.io/"><strong>here.</strong></a>
 
 ---
 
