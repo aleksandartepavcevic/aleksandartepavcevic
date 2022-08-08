@@ -6,31 +6,11 @@ A self-taught Frontend Developer specializing in JavaScript technologies. Profes
 
 
 
-- 🔭 I’m currently working on <strong>Amazon clone!</strong> ( <a href='https://clone-9e184.web.app/'>Check it live</a> | <a href='https://github.com/aleksandartepavcevic/amazon-clone'>Source code</a> )
-- 🌱 I’m currently learning <strong>Redux.</strong>
-- 📫 How to reach me: Check out my personal website <a href="https://aleksandartepavcevic.github.io/"><strong>here.</strong></a>
+- 🔭 I’m currently working on <strong>Audiophile!</strong> ( <a href='https://github.com/nvajagic/audiophile'>Source code</a> )
+- 📫 How to reach me: <a href="mailto:atepavcevic29@gmail.com"><strong>atepavcevic29@gmail.com</strong></a>
 
 ---
 
 🧰 Toolbox
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original.svg" alt="HTML Logo" width="50px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original.svg" alt="CSS Logo" width="50px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React Logo" width="50px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/sass/sass-original.svg" alt="Sass Logo" width="50px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/gulp/gulp-plain.svg" alt="Gulp Logo" width="50px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap Logo" width="50px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/firebase/firebase-plain.svg" alt="Firebase Logo" width="50px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/photoshop/photoshop-plain.svg" alt="Photoshop Logo" width="50px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/xd/xd-plain.svg" alt="Adobe XD Logo" width="50px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-plain.svg" alt="Git Logo" width="50px" />  
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandartepavcevic&hide=html,css&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**aleksandartepavcevic/aleksandartepavcevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
