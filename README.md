@@ -6,7 +6,7 @@ A self-taught Frontend Developer specializing in JavaScript technologies. Profes
 
 
 
-- 🔭 I’m currently working on <strong>Audiophile!</strong> ( <a href='https://github.com/nvajagic/audiophile'>Source code</a> )
+- 🔭 I’m currently working on <strong>Worky!</strong> ( <a href='https://github.com/aleksandartepavcevic/worky'>Source code</a> )
 - 📫 How to reach me: <a href="mailto:atepavcevic29@gmail.com"><strong>atepavcevic29@gmail.com</strong></a>
 
 ---
