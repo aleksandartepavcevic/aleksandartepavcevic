@@ -6,7 +6,7 @@ A self-taught Frontend Developer specializing in JavaScript technologies. Profes
 
 
 
-- 🔭 I’m currently working on <strong>Memivio!</strong> ( <a href="https://github.com/aleksandartepavcevic/memivi">Source code</a> )
+- 🔭 I’m currently working on <strong>Memivio!</strong> ( <a href="https://github.com/aleksandartepavcevic/memivio">Source code</a> )
 - 📫 How to reach me: <a href="mailto:atepavcevic29@gmail.com"><strong>atepavcevic29@gmail.com</strong></a>
 
 ---
